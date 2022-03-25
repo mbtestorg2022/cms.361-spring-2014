@@ -68,7 +68,7 @@ _Book Report:_ Ronfeldt, David, John Arquilla, et al. [_The Zapatista "Social Ne
 
 Garrett, R. Kelly. "[Protest in an Information Society: A _R_eview of Literature on Social Movements and New ICTs](http://dx.doi.org/10.1080/13691180600630773)." _Information, Communication & Society_ 9, no. 2 (2006): 202–24.
 
-Aday, Sean, et. al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Blogs and Bullets: New Media in Contentious Politics._ (PDF - 4.0MB) ](http://www.usip.org/files/resources/pw65.pdf) United States Institute of Peace, 2010.
+Aday, Sean, et. al. [_Blogs and Bullets: New Media in Contentious Politics._ (PDF - 4.0MB) ](http://www.usip.org/files/resources/pw65.pdf) United States Institute of Peace, 2010.
 
 Castells, Manuel. "[Communication, Power and Counter-power in the Network Society](http://ijoc.org/index.php/ijoc/article/view/46)." _International Journal of Communication_ 1, no 1 (2007): 238–66.
 
@@ -80,7 +80,7 @@ Carty, Victoria. "Overview of Social Movement Theories and a Proposed Synthesis.
 
 Garrido, Mario, and Alexander Halavais. "[Mapping Networks of Support for the Zapatista Movement: Applying Social-Networks Analysis to Study Contemporary Social Movements](http://www.academia.edu/4508752/Mapping_Networks_of_Support_for_the_Zapatista_Movement_Applying_Social_Networks_Analysis_to_Study_Contemporary_Social_Movements)." 2001.
 
-Hargittai, Eszter. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Digital Reproduction of Inequality." (PDF - 1.3MB)](http://webuse.org/pdf/Hargittai-DigitalReproduction2008.pdf) In _Social Stratification: Class, Race, and Gender in Sociological Perspective_. Westview Press, 2008. ISBN: 9780813343730.
+Hargittai, Eszter. ["The Digital Reproduction of Inequality." (PDF - 1.3MB)](http://webuse.org/pdf/Hargittai-DigitalReproduction2008.pdf) In _Social Stratification: Class, Race, and Gender in Sociological Perspective_. Westview Press, 2008. ISBN: 9780813343730.
 
 
 {{< tdclose >}}
@@ -110,7 +110,7 @@ Le Bon, Gustave. "[General Characteristics of Crowds – Psychological Law of th
 
 McCarthy, John D., and Mayer N. Zald. "[Resource Mobilization and Social Movements: A Partial Theory](http://www.jstor.org/stable/2777934)." _The American Journal of Sociology_ 82, no. 6 (1977): 1212–41.
 
-Blanco, Victor. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Media Politics of Social Protest." (PDF)](http://www.nodo50.org/multitudesonline/The Media Politics of Protest.pdf) _Mobilization_ 2, no. 2 (1997): 185–205.
+Blanco, Victor. ["The Media Politics of Social Protest." (PDF)](http://www.nodo50.org/multitudesonline/The Media Politics of Protest.pdf) _Mobilization_ 2, no. 2 (1997): 185–205.
 
 ### Additional
 
@@ -160,15 +160,15 @@ Browse methods of [_Shaping Abortion Discourse_](http://www.ssc.wisc.edu/abortio
 
 Benford, Robert D. "[An Insider's Critique of Social Movement Framing Perspective](http://dx.doi.org/10.1111/j.1475-682X.1997.tb00445.x)." _Sociological Inquiry_ 67, no. 4 (1997): 409–30.
 
-Capek, Stella M. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Environmental Justice Frame: A Conceptual Discussion and an Application."](https://www.jstor.org/stable/3097023?seq=1#page_scan_tab_contents) _Social Problems_ 40, no. 1 (1993): 5–24.
+Capek, Stella M. ["The Environmental Justice Frame: A Conceptual Discussion and an Application."](https://www.jstor.org/stable/3097023?seq=1#page_scan_tab_contents) _Social Problems_ 40, no. 1 (1993): 5–24.
 
-Oliver, Pamela E., and Hank Johnston. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["What a Good Idea! Ideology and Frames in Social Movement Research." (PDF)](http://www.ssc.wisc.edu/~oliver/PROTESTS/ArticleCopies/Frames.2.29.00.pdf) _Mobilization_ 5, no. 1 (2000): 37–54.
+Oliver, Pamela E., and Hank Johnston. ["What a Good Idea! Ideology and Frames in Social Movement Research." (PDF)](http://www.ssc.wisc.edu/~oliver/PROTESTS/ArticleCopies/Frames.2.29.00.pdf) _Mobilization_ 5, no. 1 (2000): 37–54.
 
 Snow, David A., et al. "[Frame Alignment Processes, Micromobilization, and Movement Participation](http://dx.doi.org/10.2307/2095581)." _American Sociological Review_ 51, no. 4 (1986): 464–81.
 
-Snow, David A., and Robert D. Benford. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Mobilization Forum: Clarifying the Relationship between Framing and Ideology." (PDF)](http://www.ssc.wisc.edu/~oliver/PROTESTS/ArticleCopies/SnowBenford2000ReplytoOliverJohnstonMoby.pdf) _Mobilization_ 5, no. 1 (2000): 55–60.
+Snow, David A., and Robert D. Benford. ["Mobilization Forum: Clarifying the Relationship between Framing and Ideology." (PDF)](http://www.ssc.wisc.edu/~oliver/PROTESTS/ArticleCopies/SnowBenford2000ReplytoOliverJohnstonMoby.pdf) _Mobilization_ 5, no. 1 (2000): 55–60.
 
-Johnston, Hank, and Pamela E. Oliver.![This resource may not render correctly in a screen reader.](/images/inacessible.gif)![This resource may not render correctly in a screen reader.](/images/inacessible.gif) ["Mobilization Forum: Breaking the Frame." (PDF)](http://www.ssc.wisc.edu/~oliver/PROTESTS/ArticleCopies/JohnstonOliverMoby2000ReplytoSnowBenford.pdf) _Mobilization_ 5, no. 1 (2000): 61–64.
+Johnston, Hank, and Pamela E. Oliver. ["Mobilization Forum: Breaking the Frame." (PDF)](http://www.ssc.wisc.edu/~oliver/PROTESTS/ArticleCopies/JohnstonOliverMoby2000ReplytoSnowBenford.pdf) _Mobilization_ 5, no. 1 (2000): 61–64.
 
 Ferree, Myra Marx, and David Merrill. "[Hot Movements, Cold Cognition: Thinking about Social Movements in Gendered Frames](http://dx.doi.org/10.2307/2653932)." _Contemporary Sociology_ 29, no. 3 (2000): 454–62.
 
@@ -204,7 +204,7 @@ Attention Analysis with PageOneX
 
 Polletta, Francesca, and James Jasper. "[Collective Identity and Social Movements](http://dx.doi.org/10.1146/annurev.soc.27.1.283)." _Annual Review of Sociology_ 27 (2001): 283–305.
 
-Costanza-Chock, Sasha. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Transmedia Mobilization in the Popular Association of the Oaxacan Peoples, Los Angeles." (PDF - 2.2MB)](http://web.mit.edu/schock/www/docs/pubs/mediation-movements-scc.pdf) In _Mediation and Protest Movements_. Intellect Ltd, 2013. ISBN: 9781841506432. \[Preview with [Google Books](http://books.google.com/books?id=mJj6kmhnujMC&pg=PA95=onepage)\]
+Costanza-Chock, Sasha. ["Transmedia Mobilization in the Popular Association of the Oaxacan Peoples, Los Angeles." (PDF - 2.2MB)](http://web.mit.edu/schock/www/docs/pubs/mediation-movements-scc.pdf) In _Mediation and Protest Movements_. Intellect Ltd, 2013. ISBN: 9781841506432. \[Preview with [Google Books](http://books.google.com/books?id=mJj6kmhnujMC&pg=PA95=onepage)\]
 
 ### Additional
 
@@ -290,7 +290,7 @@ _Book Report:_ [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.e
 {{< tdopen >}}
 
 
-Kavada, Anastasia. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)](http://drive.google.com/file/d/0B3-A-lITWCO8Q2Q3TlFyd1ppQXc/edit?usp=sharing)[Transnational Civil Society and Social Movements." (PDF)](http://drive.google.com/file/d/0B3-A-lITWCO8Q2Q3TlFyd1ppQXc/edit?usp=sharing)
+Kavada, Anastasia. [](http://drive.google.com/file/d/0B3-A-lITWCO8Q2Q3TlFyd1ppQXc/edit?usp=sharing)[Transnational Civil Society and Social Movements." (PDF)](http://drive.google.com/file/d/0B3-A-lITWCO8Q2Q3TlFyd1ppQXc/edit?usp=sharing)
 
 Costanza-Chock, Sasha. "[Mic Check! Media Practices in the Occupy Movement](http://dx.doi.org/10.1080/14742837.2012.710746)." _Social Movement Studies_ 11, no. 3–4 (2012): 375–85.
 
@@ -338,7 +338,7 @@ _Lab:_ Outcomes Matrix for your movement.
 
 Giugni, Marco. "[The Outcomes of the Occupy Movement: Which Lessons Can We Draw from the Social Movement Literature?](http://mobilizingideas.wordpress.com\2012\01\20\the-outcomes-of-the-occupy-movement-which-lessons-can-we-draw-from-the-social-movement-literature\)" _Mobilizing Ideas_. January 20, 2012.
 
-Pastor, Manual, Jennifer Ito, and Rachel Rosner. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Transactions, Transformations, Translations: Metrics That Matter for Building, Scaling and Funding Social Movements_. (PDF - 2.1MB)](http://dornsife.usc.edu/assets/sites/242/docs/transactions_transformations_translations_web.pdf) PERE, 2011.
+Pastor, Manual, Jennifer Ito, and Rachel Rosner. [_Transactions, Transformations, Translations: Metrics That Matter for Building, Scaling and Funding Social Movements_. (PDF - 2.1MB)](http://dornsife.usc.edu/assets/sites/242/docs/transactions_transformations_translations_web.pdf) PERE, 2011.
 
 [What the fuck has #Occupy done so far?](https://web.archive.org/web/20130408071605/http:/whatthefuckhasoccupydone.com/) (at Web Archive)
 
@@ -387,11 +387,11 @@ Open Discussion
 {{< tdopen >}}
 
 
- [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262514897) Boler, Megan. "Introduction." In ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Digital Media and Democracy: Tactics in Hard Times_. (PDF)](http://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CBwQFjAA&url=http%3A%2F%2Fstatic.ow.ly%2Fdocs%2F9657-digital_media_and_democracy_7fM.pdf&ei=x8tyVLihB8i0uATljoCICw&usg=AFQjCNGDj1dQ5EtJDT_tojQvq_E-Tf4ooA&bvm=bv.80185997,d.c2E&cad=rja) The MIT Press, 2010. ISBN: 9780262514897. \[Preview with [Google Books](http://books.google.com/books?id=4bv-eeLkG6YC&pg=PA1=onepage)\]
+ [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262514897) Boler, Megan. "Introduction." In [_Digital Media and Democracy: Tactics in Hard Times_. (PDF)](http://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CBwQFjAA&url=http%3A%2F%2Fstatic.ow.ly%2Fdocs%2F9657-digital_media_and_democracy_7fM.pdf&ei=x8tyVLihB8i0uATljoCICw&usg=AFQjCNGDj1dQ5EtJDT_tojQvq_E-Tf4ooA&bvm=bv.80185997,d.c2E&cad=rja) The MIT Press, 2010. ISBN: 9780262514897. \[Preview with [Google Books](http://books.google.com/books?id=4bv-eeLkG6YC&pg=PA1=onepage)\]
 
 Coleman, E. Gabriella. "[Anonymous: From the LULZ to Collective Action](http://mediacommons.futureofthebook.org/tne/pieces/anonymous-lulz-collective-action)," _The New Everyday_, April 6, 2011.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262514897) Renzi, Alessandra. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Space of Tactical Media." (PDF)](http://www.academia.edu/1129285/The_Space_of_Tactical_Media) In ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Digital Media and Democracy: Tactics in Hard Times_. (PDF)](http://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CBwQFjAA&url=http%3A%2F%2Fstatic.ow.ly%2Fdocs%2F9657-digital_media_and_democracy_7fM.pdf&ei=x8tyVLihB8i0uATljoCICw&usg=AFQjCNGDj1dQ5EtJDT_tojQvq_E-Tf4ooA&bvm=bv.80185997,d.c2E&cad=rja) The MIT Press, 2010. ISBN: 9780262514897. \[Preview with [Google Books](http://books.google.com/books?id=4bv-eeLkG6YC&pg=PA71=onepage)\]
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262514897) Renzi, Alessandra. ["The Space of Tactical Media." (PDF)](http://www.academia.edu/1129285/The_Space_of_Tactical_Media) In [_Digital Media and Democracy: Tactics in Hard Times_. (PDF)](http://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CBwQFjAA&url=http%3A%2F%2Fstatic.ow.ly%2Fdocs%2F9657-digital_media_and_democracy_7fM.pdf&ei=x8tyVLihB8i0uATljoCICw&usg=AFQjCNGDj1dQ5EtJDT_tojQvq_E-Tf4ooA&bvm=bv.80185997,d.c2E&cad=rja) The MIT Press, 2010. ISBN: 9780262514897. \[Preview with [Google Books](http://books.google.com/books?id=4bv-eeLkG6YC&pg=PA71=onepage)\]
 
 _Watch:_
 
@@ -431,9 +431,9 @@ Watch and discuss [Preempting Dissent](http://preemptingdissent.com/)
 
 Tufecki, Zeynep. "[Is The Internet Good or Bad? Yes](https://medium.com/matter/76d9913c6011)." _Matter_. February 12, 2014.
 
-McPhail, Clark, David Schweingruber, and John McCarthy. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Policing Protest in the United States: 1960–1995." (PDF - 1.1MB)](https://www.academia.edu/31113796/_1998_Policing_Protest_in_the_United_States_1960_1995?auto=download) In _Policing Protest: The Control of Mass Demonstrations in Western Democracies_. University of Minnesota Press, 1998. ISBN: 9780816630646.
+McPhail, Clark, David Schweingruber, and John McCarthy. ["Policing Protest in the United States: 1960–1995." (PDF - 1.1MB)](https://www.academia.edu/31113796/_1998_Policing_Protest_in_the_United_States_1960_1995?auto=download) In _Policing Protest: The Control of Mass Demonstrations in Western Democracies_. University of Minnesota Press, 1998. ISBN: 9780816630646.
 
-Saito, Natsu Taylor. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Whose Liberty? Whose Security? The USA PATRIOT Act in the Context of COINTELPRO and the Unlawful Repression of Political Dissent." (PDF)](https://scholarsbank.uoregon.edu/xmlui/bitstream/handle/1794/4616/81_Or_L_Rev_1051.pdf?sequence=1) _Oregon Law Review_ 81, no. 4 (2002): 1051–131.
+Saito, Natsu Taylor. ["Whose Liberty? Whose Security? The USA PATRIOT Act in the Context of COINTELPRO and the Unlawful Repression of Political Dissent." (PDF)](https://scholarsbank.uoregon.edu/xmlui/bitstream/handle/1794/4616/81_Or_L_Rev_1051.pdf?sequence=1) _Oregon Law Review_ 81, no. 4 (2002): 1051–131.
 
 Browse: [Pepper Spray Cop Tumblrs](http://peppersprayingcop.tumblr.com/), [Pepper Spray Cop recursive metameme](http://knowyourmeme.com/memes/casually-pepper-spray-everything-cop)
 
@@ -479,7 +479,7 @@ Rupp, Leila. "[Constructing Internationalism: The Case of Transnational Women's 
 
 Passy, Florence. "Supranational Political Opportunities as a Channel of Globalization of Political Conflicts." In _Social Movements in a Globalizing World_. Palgrave Macmillan, 1999. ISBN: 9780312219383.
 
-Smith, Jackie. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Globalizing Resistance: The Battle of Seattle and the Future of Social Movements." (PDF)](http://depts.washington.edu/pcls/documents/research/Smith_GlobalizingResistance.pdf) _Mobilization_ 6, no. 1 (2001): 1–19.
+Smith, Jackie. ["Globalizing Resistance: The Battle of Seattle and the Future of Social Movements." (PDF)](http://depts.washington.edu/pcls/documents/research/Smith_GlobalizingResistance.pdf) _Mobilization_ 6, no. 1 (2001): 1–19.
 
 
 {{< tdclose >}}
