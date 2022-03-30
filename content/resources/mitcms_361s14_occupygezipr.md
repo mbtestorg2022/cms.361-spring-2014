@@ -6,6 +6,7 @@ description: 'Example of student work: project proposal for a research paper to 
   the aims and organization of the movement.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/cms-361-networked-social-movements-media-mobilization-spring-2014/8ee3988cab08efb144fb4a88b144523b_MITCMS_361S14_OccupyGeziPr.pdf
 file_type: application/pdf
+parent_uid: c3011914-67ad-400b-3dcd-79061af38854
 resourcetype: Document
 title: "Media\u2019s Role in Organizing the Occupy Gezi Movement "
 uid: 8ee3988c-ab08-efb1-44fb-4a88b144523b

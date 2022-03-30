@@ -6,6 +6,7 @@ description: "Example of student work: project proposal for a research paper to 
   \ facets of Turkish society."
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/cms-361-networked-social-movements-media-mobilization-spring-2014/0cf5807e3eb1d44ad020c915a184d2a9_MITCMS_361S14_RevOsetBabur.pdf
 file_type: application/pdf
+parent_uid: c3011914-67ad-400b-3dcd-79061af38854
 resourcetype: Document
 title: 'Occupy Gezi: Unexpectedly Uniting A Divided Society, Through a Single Hashtag'
 uid: 0cf5807e-3eb1-d44a-d020-c915a184d2a9

@@ -5,6 +5,7 @@ description: 'Example of student work: revised draft of project proposal for a r
   are designed.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/cms-361-networked-social-movements-media-mobilization-spring-2014/282c2323c1395f82e7662711226a64fe_MITCMS_361S14_FinalProject.pdf
 file_type: application/pdf
+parent_uid: c3011914-67ad-400b-3dcd-79061af38854
 resourcetype: Document
 title: Differences in Desired and Actual Outcomes between Moments in the course of
   a Social Movement

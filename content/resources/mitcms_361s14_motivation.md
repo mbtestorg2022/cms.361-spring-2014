@@ -5,6 +5,7 @@ description: 'Example of student work: project proposal for a research paper to 
   process are they created.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/cms-361-networked-social-movements-media-mobilization-spring-2014/797361cafd01545988515652952a32b6_MITCMS_361S14_Motivation.pdf
 file_type: application/pdf
+parent_uid: c3011914-67ad-400b-3dcd-79061af38854
 resourcetype: Document
 title: The Motivation and Process behind the Formation of Social Movement Coalitions
 uid: 797361ca-fd01-5459-8851-5652952a32b6
